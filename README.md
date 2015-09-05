@@ -15,4 +15,5 @@ Repository used for exercises in the Data Science track on Coursera
 * points
 
 http://www.annissimo.com
+
 [annissimo.com](http://www.annissimo.com)
